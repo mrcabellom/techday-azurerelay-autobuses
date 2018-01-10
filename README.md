@@ -1,6 +1,6 @@
-<img src="http://dotnetmalaga.es/2017/images/Logo_dotnetmlg_full_color_2tintas_2.png" width="240" height="240"></img>
+<img src="https://workablehr.s3.amazonaws.com/uploads/account/logo/64732/resize__2_.png" width="240" height="240"></img>
 
 
-**Source code for Azure Relay with Raspberry PI talk in dotnet malaga 2017**
+**Source code for Azure Relay with Raspberry PI talk in Plain Tech Day 2017**
 
 **Authors:** Carlos Landeras & Rodrigo Cabello
